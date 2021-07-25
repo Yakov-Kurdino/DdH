@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "8e5a0ec6ed882376",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2ed44c13460ec4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Historia Principal/HP/HP - Capítulo 1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f2637e47d672972",
+    "type": "split",
+    "children": [
+      {
+        "id": "e105b17e08ddc2a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8cca8fc870b42f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2e6a57ce1ea2a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b732589e154a9b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8de88a4fe8116d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f335e4495a642e8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Historia Principal/HP/HP - Capítulo 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a2ed44c13460ec4a",
+  "lastOpenFiles": [
+    "Historia Principal/HP/HP - Capítulo 1.md",
+    "Historia Principal/Historia Principal.md",
+    "Mapa/Continentes/Auros.md",
+    "Mapa/Mapa.md",
+    "README.md",
+    "Plantillas/Plantillas.md",
+    "Plantillas/Plantillas Principales/Plantilla - Artefactos.md",
+    "Plantillas/Plantillas Principales/Plantilla - Habitación.md",
+    "Plantillas/Plantillas Principales/Plantilla - Vivienda.md",
+    "Plantillas/Plantillas Principales/Plantilla - Piso.md"
+  ]
+}
